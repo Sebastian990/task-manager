@@ -1,0 +1,22 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "task manager rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benitezho/task-manager.git"
+  },
+  "author": "hbenitez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benitezho/task-manager/issues"
+  },
+  "homepage": "https://github.com/benitezho/task-manager#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
