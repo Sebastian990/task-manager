@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 
+//agrega comentario inicial 
 app.get('/', (request, response)=>{
    response.send(200);
 });
